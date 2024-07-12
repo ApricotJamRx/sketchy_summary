@@ -1,0 +1,12 @@
+{
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "settings":
+    {
+        "python_interpreter": "/Users/shane/anaconda3/envs/llm_pipelines/bin/python"
+    }
+}
